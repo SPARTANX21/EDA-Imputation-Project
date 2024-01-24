@@ -1,4 +1,6 @@
 # Data Imputation and Exploratory Data Analysis (EDA) Project
+![Data Science](https://img.shields.io/badge/Data%20Science-Exploration%20%7C%20Cleaning-blue)
+![Python](https://img.shields.io/badge/Language-Python%203.8-yellow)
 
 ## Overview
 
